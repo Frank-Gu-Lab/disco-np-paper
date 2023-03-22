@@ -99,7 +99,7 @@ def add_fingerprint_toax(df, ax, **kwargs):
 
     return
 
-def add_buildup_toax(df, ax):
+def add_buildup_toax(df, ax, **kwargs):
     '''Adds the Absolute DISCO Effect(t) buildup curves for all protons in 
     a polymer to an existing plot axis.
     
@@ -133,7 +133,10 @@ def add_buildup_toax(df, ax):
     >> your AF0 buildup curves for all binding peaks in the polymer will appear on the plot axis
 
     '''
-
+    if kwargs['labels'] is not None:
+        flag = 1
+    else:
+        flag = 0
     if type(df.columns) == pd.MultiIndex:
         df = flatten_multicolumns(df)  # make data indexable if it is not already
 
@@ -142,13 +145,23 @@ def add_buildup_toax(df, ax):
     groups = df_plot.groupby([ppm_labels])
 
     # plot DISCO effect build up curve, absolute values
-    for ppm, group in groups:
-        sat_time, disco_effect, y1, y2 = calculate_abs_buildup_params(group)
-        ax.plot(sat_time, disco_effect, markeredgecolor='k', markeredgewidth=0.35,
-                marker='o', linestyle='', ms=5, label="%.2f" % ppm) 
-        ax.fill_between(sat_time, y1, y2, alpha=0.25)
-        ax.legend(loc='lower right', title="Peak ($\delta$, ppm)")
-        ax.axhline(y=0.0, color="0.8", linestyle='dashed')
+    if flag ==1:
+        for ppm, group in groups:
+            sat_time, disco_effect, y1, y2 = calculate_abs_buildup_params(group)
+            ax.plot(sat_time, disco_effect, markeredgecolor='k', markeredgewidth=0.35,
+                    marker='o', linestyle='', ms=5, label=kwargs['labels']) 
+            ax.fill_between(sat_time, y1, y2, alpha=0.25)
+            ax.legend(loc='best',fontsize=8, handletextpad=0.005)
+            ax.axhline(y=0.0, color="0.8", linestyle='dashed')
+
+    else:
+        for ppm, group in groups:
+            sat_time, disco_effect, y1, y2 = calculate_abs_buildup_params(group)
+            ax.plot(sat_time, disco_effect, markeredgecolor='k', markeredgewidth=0.35,
+                    marker='o', linestyle='', ms=5, label="%.2f" % ppm) 
+            ax.fill_between(sat_time, y1, y2, alpha=0.25)
+            ax.legend(loc='lower right', title="Peak ($\delta$, ppm)")
+            ax.axhline(y=0.0, color="0.8", linestyle='dashed')
 
     return
 
