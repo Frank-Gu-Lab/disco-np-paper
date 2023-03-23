@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="pva_repeatunit_v2.svg"
+   inkscape:export-filename="D:\OneDrive - University of Toronto\Repos\disco-np-paper\data\external\pva_customfigs\pva_repeatunit_high_np-v2.png"
+   inkscape:export-xdpi="96.270782"
+   inkscape:export-ydpi="96.270782">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6157"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6155" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6111"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6109" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5857"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5855"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5215"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5218"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="194.25498"
+     inkscape:cy="792.99096"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1741333;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4692"
+       width="61.738365"
+       height="52.742535"
+       x="17.48102"
+       y="67.825317"
+       inkscape:export-filename="D:\OneDrive - University of Toronto\Repos\disco-np-paper\data\external\pva_customfigs\pva_repeatunit_high_np-v2.png"
+       inkscape:export-xdpi="96.000015"
+       inkscape:export-ydpi="96.000015" />
+    <g
+       id="drawing"
+       transform="matrix(0.22390755,0,0,0.22390755,0.29044851,49.347456)"
+       inkscape:export-xdpi="96.000015"
+       inkscape:export-ydpi="96.000015"
+       inkscape:export-filename="D:\OneDrive - University of Toronto\Repos\disco-np-paper\data\external\pva_customfigs\pva_repeatunit_high_np-v2.png">
+      <g
+         clip-path="url(#63)"
+         id="page">
+        <g
+           id="g4527">
+          <text
+             id="text4525"
+             xml:space="preserve"
+             style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+               id="tspan4523"
+               font-size="20.2"
+               y="292.41"
+               x="79.290001"
+               style="font-size:20.20000076px;font-family:Arial;fill:#000000">*</tspan></text>
+        </g>
+        <g
+           id="Solid">
+          <path
+             id="path4529"
+             d="m 90.51,281.41 v 0 l -0.5,-0.87 -0.51,-0.88 45.29,-26.14 1.01,0.58 v 1.17 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4534">
+          <path
+             id="path4532"
+             d="m 135.8,255.27 v 0 -1.17 l 1.01,-0.58 51.57,29.77 v 1.17 1.17 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4540">
+          <text
+             id="text4538"
+             xml:space="preserve"
+             style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+               id="tspan4536"
+               font-size="20.2"
+               y="201.33"
+               x="127.95"
+               style="font-size:20.20000076px;font-family:Arial;fill:#000000">OH</tspan></text>
+        </g>
+        <g
+           id="g4544">
+          <path
+             id="path4542"
+             d="m 136.81,253.52 v 0 l -1.01,0.58 -1.01,-0.58 v -47.87 h 1.01 1.01 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4548">
+          <path
+             id="path4546"
+             d="m 188.38,285.63 v 0 -1.17 -1.17 l 51.58,-29.77 1.01,0.58 v 1.17 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4554">
+          <text
+             id="text4552"
+             xml:space="preserve"
+             style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+               id="tspan4550"
+               font-size="20.2"
+               y="201.33"
+               x="233.12"
+               style="font-size:20.20000076px;font-family:Arial;fill:#000000">O</tspan></text>
+        </g>
+        <g
+           id="g4558">
+          <path
+             id="path4556"
+             d="m 241.98,253.52 v 0 l -1.01,0.58 -1.01,-0.58 v -47.87 h 1.01 1.01 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4562">
+          <path
+             id="path4560"
+             d="m 251.41,188.52 v 0 l -0.5,-0.88 -0.51,-0.87 43.15,-24.92 v 1.17 1.17 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4568">
+          <text
+             id="text4566"
+             xml:space="preserve"
+             style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+               id="tspan4564"
+               font-size="20.2"
+               y="110.25"
+               x="285.70001"
+               style="font-size:20.20000076px;font-family:Arial;fill:#000000">O</tspan></text>
+        </g>
+        <g
+           id="g4576">
+          <line
+             id="line4570"
+             y2="114.55"
+             x2="289.91"
+             y1="163.02"
+             x1="289.91"
+             style="stroke:#000000;stroke-width:2.01999998;shape-rendering:auto" />
+          <path
+             id="path4572"
+             d="m 296.18,163.37 v 0 l 2.02,1.17 v -49.99 h -2.02 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+          <path
+             id="path4574"
+             d="m 288.9,164.54 v 0 l 2.02,-1.17 v -48.82 h -2.02 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4580">
+          <path
+             id="path4578"
+             d="m 293.55,164.19 v 0 -1.17 -1.17 l 53.09,30.66 -0.5,0.87 -0.5,0.87 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4584">
+          <path
+             id="path4582"
+             d="m 240.97,255.27 v 0 -1.17 l 1.01,-0.58 51.57,29.77 v 1.17 1.17 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4590">
+          <text
+             id="text4588"
+             xml:space="preserve"
+             style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+               id="tspan4586"
+               font-size="20.2"
+               y="262.04999"
+               x="342.20999"
+               style="font-size:20.20000076px;font-family:Arial;fill:#000000">*</tspan></text>
+        </g>
+        <g
+           id="g4594">
+          <path
+             id="path4592"
+             d="m 293.55,285.63 v 0 -1.17 -1.17 l 43.32,-25 0.5,0.87 0.51,0.88 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="Bracket">
+          <path
+             id="path4596"
+             d="m 305.22,239.68 h 5.3 v 60.72 h -5.3"
+             inkscape:connector-curvature="0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.01999998;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="ObjectTag">
+          <g
+             id="g4603">
+            <text
+               id="text4601"
+               xml:space="preserve"
+               style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+                 id="tspan4599"
+                 font-size="15.15"
+                 y="305.07001"
+                 x="316.22"
+                 style="font-size:15.14999962px;font-family:Arial;fill:#000000">m</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g4608">
+          <path
+             id="path4606"
+             d="m 219.98,299.64 h -5.3 v -60.72 h 5.3"
+             inkscape:connector-curvature="0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.01999998;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4612">
+          <path
+             id="path4610"
+             d="m 190.94,239.68 h 5.31 v 60.72 h -5.31"
+             inkscape:connector-curvature="0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.01999998;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+        <g
+           id="g4620">
+          <g
+             id="g4618">
+            <text
+               id="text4616"
+               xml:space="preserve"
+               style="text-anchor:start;text-rendering:geometricPrecision"><tspan
+                 id="tspan4614"
+                 font-size="15.15"
+                 y="305.07001"
+                 x="201.94"
+                 style="font-size:15.14999962px;font-family:Arial;fill:#000000">n</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g4624">
+          <path
+             id="path4622"
+             d="m 114.82,299.64 h -5.31 v -60.72 h 5.31"
+             inkscape:connector-curvature="0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.01999998;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
