@@ -1,4 +1,4 @@
-# disco-figures-template
+# DISCO-NP Manuscript Repository
 
 This repository is intended to be a template for generating custom figures using DISCO data.
 
