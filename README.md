@@ -4,7 +4,7 @@
 #### Institute of Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada
 #### Division of Engineering Science, University of Toronto, Toronto, Ontario, Canada
 #### Department of Chemistry, University of Toronto, Toronto, Ontario, Canada
-
+---------
 
 This repository is intended as supporting information for the following publication:
 
