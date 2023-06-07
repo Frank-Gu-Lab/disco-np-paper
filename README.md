@@ -1,11 +1,12 @@
-# DISCO-NP Manuscript Repository
+## DISCO-NP Manuscript Repository
+#### Jeffrey Watchorn, Samantha Stuart, Aaron J. Clasky, Matthew H. Oliveira, Darcy C. Burns, Frank X. Gu
 
 This repository is intended as supporting information for the following publication:
 
 *Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
 
 --------
-## Environment Setup Steps:
+### Environment Setup Steps:
 1) Clone Repository to local machine
 2) Create new python environment
 3) Activate environment, navigate to this repository's home directory
