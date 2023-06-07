@@ -9,7 +9,7 @@
 This repository is intended as supporting information for the following publication:
 
 *Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
-
+![Image](./data/misc/figure0-v4-alt-e.png)
 
 
 --------
