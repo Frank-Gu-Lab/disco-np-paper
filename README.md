@@ -6,7 +6,7 @@
 #### Department of Chemistry, University of Toronto, Toronto, Ontario, Canada
 
 
-This repository is intended as supporting information for the following publication:
+This repository is intended as supporting information (containing raw data and code to generate the figures) for the following publication:
 
 *Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
 ![Image](./data/misc/figure0-v4-alt-e.png)
@@ -31,3 +31,17 @@ This repository is intended as supporting information for the following publicat
     * `mpl.get_configdir()/stylelib`
 
 * Colours are from the colorbrewer qualitative comparison palette: https://colorbrewer2.org/#type=qualitative&scheme=Set1&n=9
+
+### How to cite
+```
+@article{TBD,
+  title={Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding},
+  author={Watchorn, Jeffrey and Stuart, Samantha and Clasky, Aaron J. and Oliveira, Matthew H. and Burns, Darcy C. and Gu, Frank X.},
+  journal={TBD},
+  year={2023},
+  publisher={TBD}
+}
+```
+
+### License
+MIT License
