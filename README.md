@@ -12,7 +12,7 @@ This repository is intended as supporting information (containing raw data and c
 *Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
 ![Image](./data/misc/figure0-v4-alt-e.png)
 
-
+In this work we characterize several nanoparticles with [DISCO-NMR](https://pubs.acs.org/doi/10.1021/acs.biomac.1c00944) and uncover unique mechanisms of interaction when comparing nanomaterials and their parent polymers. We also found that the choice of underlying nanoparticle is influential in determining interactions with mucin, even if they are coated with the same polymer.
 --------
 ### Environment Setup Steps:
 1) Clone Repository to local machine
