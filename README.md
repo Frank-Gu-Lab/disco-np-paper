@@ -1,9 +1,9 @@
 ## DISCO-NP Manuscript Repository
 #### Jeffrey Watchorn<sup>1</sup>, Samantha Stuart, Aaron J. Clasky, Matthew H. Oliveira, Darcy C. Burns, Frank X. Gu
-**<sup>1</sup>Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, Ontario, Canada**  
-**Institute of Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada**  
-**Division of Engineering Science, University of Toronto, Toronto, Ontario, Canada**  
-**Department of Chemistry, University of Toronto, Toronto, Ontario, Canada**  
+<sup>1</sup>Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, Ontario, Canada  
+Institute of Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada  
+Division of Engineering Science, University of Toronto, Toronto, Ontario, Canada  
+Department of Chemistry, University of Toronto, Toronto, Ontario, Canada  
 
 
 This repository is intended as supporting information (containing raw data and code to generate the figures) for the following publication:
