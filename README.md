@@ -1,7 +1,9 @@
 # DISCO-NP Manuscript Repository
 
-This repository is intended to be a template for generating custom figures using DISCO data.
+This repository is intended as supporting information for the following publication:
+*Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
 
+--------
 ## Environment Setup Steps:
 1) Clone Repository to local machine
 2) Create new python environment
