@@ -1,6 +1,7 @@
 # DISCO-NP Manuscript Repository
 
 This repository is intended as supporting information for the following publication:
+
 *Transfer-base nuclear magnetic resonance uncovers unique mechanisms for protein-polymer and protein nanoparticle binding*
 
 --------
